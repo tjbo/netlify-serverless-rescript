@@ -1,0 +1,8 @@
+{
+  "name": "netlify-serverless-rescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tjbo/netlify-serverless-rescript.git",
+  "author": "tjbo <tom@prototypable.ca>",
+  "license": "MIT"
+}
