@@ -4,5 +4,11 @@
   "main": "index.js",
   "repository": "git@github.com:tjbo/netlify-serverless-rescript.git",
   "author": "tjbo <tom@prototypable.ca>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@netlify/functions": "^0.10.0",
+    "funicular": "^0.0.1",
+    "netlify-cli": "^8.0.15",
+    "rescript": "^9.1.4"
+  }
 }
